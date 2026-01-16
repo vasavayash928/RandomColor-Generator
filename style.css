@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background-color: rgba(112, 109, 107, 0.048);
+
+}
+ls 
+
+#container {
+    border: 2px solid black;
+    width: 700px;
+    height: 400px;
+    /* display: flex; */
+    margin: auto; 
+
+}
+
+#colorbox {
+    border: 2px solid black;
+    width: 550px;
+    height: 250px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
